@@ -1,6 +1,7 @@
 # sygnal
 
-A new Flutter project.
+A community driven mobile application for instant alerts, news and updates surrounding the locality in which the user lives in.
+This will be mobile app version of alertify, it is just renamed into sygnal.
 
 ## Getting Started
 
