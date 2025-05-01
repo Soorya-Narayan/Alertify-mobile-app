@@ -3,6 +3,8 @@
 A community driven mobile application for instant alerts, news and updates surrounding the locality in which the user lives in.
 This will be mobile app version of alertify, it is just renamed into sygnal.
 
+![Alt text](s1.mp4)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
