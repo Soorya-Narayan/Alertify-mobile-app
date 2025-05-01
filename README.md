@@ -4,7 +4,7 @@ A community driven mobile application for instant alerts, news and updates surro
 This will be mobile app version of alertify, it is just renamed into sygnal.
 
 <p align="center">
-  <img src="s2.jpg" width="30%" />
+  <img src="s1.mp4" width="30%" />
   <img src="s3.jpg" width="30%" />
   <img src="s4.jpg" width="30%" />
 </p>
