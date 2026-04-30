@@ -3,10 +3,12 @@
 A community driven mobile application for instant alerts, news and updates surrounding the locality in which the user lives in.
 This will be mobile app version of alertify, it is just renamed into sygnal.
 
-<p align="center">
-  <img src="s3.jpg" width="30%" />
-  <img src="s4.jpg" width="30%" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="s3.jpg" width="300"/></td>
+    <td><img src="s4.jpg" width="300"/></td>
+  </tr>
+</table>
 
 ## Getting Started
 
